@@ -1,0 +1,6 @@
+Hi...this is file from server
+
+for chld branch
+for merging to master
+
+for understanding
